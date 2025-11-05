@@ -1,14 +1,14 @@
-Harshit-portfolio
-👋 Hi, I'm Harshit Rajput
+Shalini -portfolio
+👋 Hi, I'm Shalini Tiwari
 💻 .NET Developer & Software Engineer | Full Stack | Cloud | API Specialist
 👨‍💻 About Me
-💻 Passionate .NET Core Developer with 3+ years of experience in building scalable enterprise web applications and APIs.
+💻 Passionate .NET Core Developer with 1+ years of experience in building scalable enterprise web applications and APIs.
 🔭 Currently working at Microware Computing & Consulting Pvt. Ltd. on healthcare projects like iWIN, CAHP, WeCare, and Child Care Management System.
 ⚙️ Skilled in C#, ASP.NET Core, Entity Framework, SQL Server, ReactJS, and Azure.
 🌱 Constantly learning Clean Architecture, Microservices, and Azure DevOps to improve scalability and performance.
 ☁️ 2025 Goal: Deepen expertise in Azure Cloud & Microservices Architecture.
 💬 Ask me about .NET Core, Web API, SQL Optimization, Docker, or ReactJS.
-📧 Reach me at: harshit828550@gmail.com
+📧 Reach me at: tiwari.shalini16698.com
 🌐 Connect With Me
    
 
